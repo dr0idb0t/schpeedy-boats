@@ -10,7 +10,7 @@ A simple mod that makes boats a little bit faster. Required on both the client a
 ## Credits
 
 * Ice boat control mixin adapted from [Ice Boat Nerf](https://gitlab.com/supersaiyansubtlety/ice_boat_nerf)
-* Boat entity speed mixin adapted from [Paradise Lost's old speed soil code] (https://github.com/devs-immortal/Paradise-Lost)
+* Boat entity speed mixin adapted from [Paradise Lost's old speed soil code](https://github.com/devs-immortal/Paradise-Lost)
 
 ## Legal
 
