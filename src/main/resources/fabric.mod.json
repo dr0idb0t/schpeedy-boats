@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "schpeedyboats",
+  "version": "${version}",
+  "icon": "icon.png",
+  "name": "Schpeedy Boats",
+  "description": "Makes boats a little bit faster.",
+  "authors": ["FDCP Software Werke GmbH"],
+  "license": "MIT",
+  "environment": "*",
+  "mixins": [
+    "schpeedyboats-mixin.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.20.x",
+    "java": ">=17"
+  },
+  "conflicts": {}
+}
