@@ -1,6 +1,6 @@
 # Schpeedy Boats
 
-A simple mod that makes boats a little bit faster. Required on both the client and server side. 
+A simple mod that makes boats a little bit faster. Required on both the client and server side. Requires Fabric API (but what doesn't?)
 
 ## Features
 
